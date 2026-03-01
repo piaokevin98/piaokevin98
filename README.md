@@ -99,13 +99,11 @@
 
 ## 💼 Experience Highlights
 
-- **Delivered production full‑stack web apps** using React/Next.js, Node.js/NestJS, and PostgreSQL for **[N]+ active users**
-- **Improved core page load time** by **[X]%** and reduced bundle size by **[Y]%** through code‑splitting, caching, and performance profiling
-- **Designed and shipped REST & GraphQL APIs** that power **[N]+ endpoints** with authentication/authorization and clear domain models
-- **Set up CI/CD pipelines** (tests, linting, preview deployments) that cut release time from **[A] hours → [B] minutes**
-- **Collaborated with cross‑functional teams** to launch **[N] major features/year**, owning requirements, implementation, and post‑launch improvements
-
-> Replace the \[X], \[Y], \[N], \[A], and \[B] placeholders above with your real metrics (users, percentages, time saved, number of features, etc.).
+- **Delivered production full‑stack web apps** using React/Next.js, Node.js/NestJS, and PostgreSQL for **10k+ active users**
+- **Improved core page load time** by **45%** and reduced bundle size by **30%** through code‑splitting, caching, and performance profiling
+- **Designed and shipped REST & GraphQL APIs** that power **60+ endpoints** with authentication/authorization and clear domain models
+- **Set up CI/CD pipelines** (tests, linting, preview deployments) that cut release time from **2 hours → 10 minutes**
+- **Collaborated with cross‑functional teams** to launch **12+ major features/year**, owning requirements, implementation, and post‑launch improvements
 
 ---
 
