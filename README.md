@@ -135,30 +135,6 @@
 
 ---
 
-## 🔗 GitHub Stats & Top Languages
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=piaokevin98&show_icons=true&theme=tokyonight&hide_border=false&rank_icon=github"
-    alt="GitHub Stats for piaokevin98"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=piaokevin98&layout=compact&theme=tokyonight&hide_border=false"
-    alt="Top Languages for piaokevin98"
-    height="180"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=piaokevin98&theme=tokyonight&hide_border=false"
-    alt="GitHub Streak for piaokevin98"
-  />
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 - **GitHub**: [`piaokevin98`](https://github.com/piaokevin98)
