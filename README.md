@@ -142,11 +142,3 @@
 - **Portfolio**: `your-portfolio-url`
 - **Email**: `your-email@example.com`
 
----
-
-### ✅ How to Customize
-
-- Replace all `your-username`, `your-linkedin-url`, `your-portfolio-url`, and `your-email@example.com` with your real info.
-- Remove technologies you don’t use and add ones you do (the icons are from `devicon` CDN).
-- Update the **Experience Highlights** section with your real projects and numbers.
-
