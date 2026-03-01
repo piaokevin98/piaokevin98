@@ -140,5 +140,5 @@
 - **GitHub**: [`piaokevin98`](https://github.com/piaokevin98)
 - **LinkedIn**: `your-linkedin-url`
 - **Portfolio**: `your-portfolio-url`
-- **Email**: `your-email@example.com`
+- **Email**: `piaokevin98@gmail.com`
 
