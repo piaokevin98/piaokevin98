@@ -118,25 +118,23 @@
 
 ## 🔗 GitHub Stats & Activity
 
-> Replace `your-username` below with your real GitHub username.
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KevinPiao&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KevinPiao&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinPiao&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
 ## 🤝 Connect With Me
 
-- **GitHub**: [`your-username`](https://github.com/your-username)
+- **GitHub**: [`KevinPiao`](https://github.com/KevinPiao)
 - **LinkedIn**: `your-linkedin-url`
 - **Portfolio**: `your-portfolio-url`
 - **Email**: `your-email@example.com`
