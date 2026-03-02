@@ -138,7 +138,7 @@
 ## 🤝 Connect With Me
 
 - **GitHub**: [`piaokevin98`](https://github.com/piaokevin98)
-- **LinkedIn**: `your-linkedin-url`
-- **Portfolio**: [`https://moonsite-fullstack.vercel.app/`](https://kevin-piao-portfolio.vercel.app/)
+- **LinkedIn**: [`https://www.linkedin.com/in/kevin-piao-22b6003b4`](https://www.linkedin.com/in/kevin-piao-22b6003b4)
+- **Portfolio**: [`https://kevin-portfolio-delta-blond.vercel.app`](https://kevin-portfolio-delta-blond.vercel.app)
 - **Email**: `piaokevin98@gmail.com`
 
